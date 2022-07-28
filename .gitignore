@@ -1,0 +1,17 @@
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+dist/
+dist-esm/
+dist-cjs/
+lib/
+node_modules/
+out/
+
+*.tsbuildinfo
+
+.yarn/
+.pnp.*
